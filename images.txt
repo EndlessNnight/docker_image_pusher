@@ -7,4 +7,12 @@ xhofe/alist:latest
 
 nyanmisaka/jellyfin
 linuxserver/jackett
-
+linuxserver/qbittorrent
+deluan/navidrome
+easychen/cookiecloud
+ghcr.io/advplyr/audiobookshelf
+herberthe0229/iptv-sources
+iyuucn/iyuuplus-dev
+jxxghp/moviepilot
+xhongc/music_tag_web
+xhofe/alist
