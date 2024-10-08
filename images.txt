@@ -14,6 +14,7 @@ ghcr.io/advplyr/audiobookshelf
 herberthe0229/iptv-sources
 iyuucn/iyuuplus-dev
 jxxghp/moviepilot
+jxxghp/moviepilot:2.0.0-alpha
 xhongc/music_tag_web
 xhofe/alist
 corentinth/it-tools
