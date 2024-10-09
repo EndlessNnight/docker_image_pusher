@@ -18,3 +18,4 @@ jxxghp/moviepilot:2.0.0-alpha
 xhongc/music_tag_web
 xhofe/alist
 corentinth/it-tools
+rustdesk/rustdesk-server
