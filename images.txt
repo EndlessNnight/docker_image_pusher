@@ -19,3 +19,4 @@ xhongc/music_tag_web
 xhofe/alist
 corentinth/it-tools
 rustdesk/rustdesk-server
+gdy666/lucky
