@@ -22,3 +22,4 @@ xhofe/alist
 corentinth/it-tools
 rustdesk/rustdesk-server
 gdy666/lucky
+jc21/nginx-proxy-manager
