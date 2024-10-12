@@ -5,21 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-nyanmisaka/jellyfin
-linuxserver/jackett
-linuxserver/plex
-plexinc/pms-docker
-linuxserver/qbittorrent
-deluan/navidrome
-easychen/cookiecloud
-ghcr.io/advplyr/audiobookshelf
-herberthe0229/iptv-sources
-iyuucn/iyuuplus-dev
-jxxghp/moviepilot
-jxxghp/moviepilot:2.0.0-alpha
-xhongc/music_tag_web
-xhofe/alist
-corentinth/it-tools
-rustdesk/rustdesk-server
-gdy666/lucky
-jc21/nginx-proxy-manager
+portainer/portainer
